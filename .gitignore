@@ -1,0 +1,14 @@
+# Entornos virtuales
+venv/
+.venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Variables de entorno (donde pondrás tus llaves secretas)
+.env
+
+# Node (para cuando hagas el frontend)
+node_modules/
